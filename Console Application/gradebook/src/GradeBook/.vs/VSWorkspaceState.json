@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\net5.0",
+    "\\bin\\Release\\net5.0\\ref",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net5.0",
+    "\\obj\\Debug\\net5.0\\ref",
+    "\\obj\\Release",
+    "\\obj\\Release\\net5.0",
+    "\\obj\\Release\\net5.0\\ref"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
