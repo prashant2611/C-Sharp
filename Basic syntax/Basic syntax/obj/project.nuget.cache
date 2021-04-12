@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSKwm4iuD0OYy/yjY9hOxi/QZBFJOGH7r82SMv6AKzRipK6ntf7lJTXEd/6qQVLrkznOoQQJQHwTRKzOZaAS0g==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Basic syntax\\Basic syntax\\Basic syntax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

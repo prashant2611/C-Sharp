@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.exe
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.dll
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\bin\Debug\netcoreapp3.1\Basic syntax.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.dll
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Basic syntax\Basic syntax\obj\Debug\netcoreapp3.1\Basic syntax.genruntimeconfig.cache
