@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.exe
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.dll
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\bin\Debug\netcoreapp3.1\BuildTypes.pdb
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.dll
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.pdb
+H:\KLINGELNBERG\Training Assignments\C#\BuildTypes\BuildTypes\obj\Debug\netcoreapp3.1\BuildTypes.genruntimeconfig.cache
