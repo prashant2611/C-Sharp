@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.exe
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.dll
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\bin\Debug\netcoreapp3.1\Class Object.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.dll
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Class Object\Class Object\obj\Debug\netcoreapp3.1\Class Object.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.exe
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.dll
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\bin\Debug\netcoreapp3.1\Reference Types and Value Types.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.dll
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Reference Types and Value Types\Reference Types and Value Types\obj\Debug\netcoreapp3.1\Reference Types and Value Types.genruntimeconfig.cache
