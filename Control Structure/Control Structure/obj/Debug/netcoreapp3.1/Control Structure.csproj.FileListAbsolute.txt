@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.exe
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.dll
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\bin\Debug\netcoreapp3.1\Control Structure.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.dll
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Control Structure\Control Structure\obj\Debug\netcoreapp3.1\Control Structure.genruntimeconfig.cache

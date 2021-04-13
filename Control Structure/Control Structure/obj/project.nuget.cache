@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UZXcW5J1nW38OuJvVTgDW+mj0Pg1EGaxNY1iJmaepKkUpOaiPKi4SQumtEMJoPzF1R+5wDU+d+2NxKURpGBLIw==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Control Structure\\Control Structure\\Control Structure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
