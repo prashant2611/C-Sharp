@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.exe
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.dll
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\bin\Debug\netcoreapp3.1\Exception Handling and Input from user.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.dll
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Exception Handling and Input from user\Exception Handling and Input from user\obj\Debug\netcoreapp3.1\Exception Handling and Input from user.genruntimeconfig.cache
