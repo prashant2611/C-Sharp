@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yN81TcZ1GU13A2MJ3bsPJ3Xp3GqRPg3rdh/Lfonqcyemjxa9RpDIXTnYOMhPXvRAGnbzi6wVSuUMmt1/dv0/4A==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Object Oriented Programming\\Object Oriented Programming\\Object Oriented Programming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
