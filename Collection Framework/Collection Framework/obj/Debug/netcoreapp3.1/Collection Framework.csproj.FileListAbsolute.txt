@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.exe
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.dll
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\bin\Debug\netcoreapp3.1\Collection Framework.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.dll
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Collection Framework\Collection Framework\obj\Debug\netcoreapp3.1\Collection Framework.genruntimeconfig.cache

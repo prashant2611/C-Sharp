@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace Class_Object_Test.GradeBook
@@ -29,13 +30,27 @@ namespace Class_Object_Test.GradeBook
         {
             foreach (double n in grade)
             {
-                result.highGrade = Math.Max(n, result.highGrade);
-                result.minGrade = Math.Min(n, result.minGrade);
-                result.res = result.res + n;
+                result.add(n);
+                result.writefile(n);
             }
-            result.res = result.res / grade.Count;
-
             return result;
         }
+
+        public Statistics FileAverage()
+        {
+            var resultnew = new Statistics();
+            using (var readFile = File.OpenText($"name"))
+            {
+                var line = readFile.ReadLine();
+                while (line != null)
+                {
+                    var number = double.Parse(line);
+                    resultnew.add(number);
+                    line = readFile.ReadLine();
+                }
+            }
+            return resultnew; 
+        }
+
     }
 }
