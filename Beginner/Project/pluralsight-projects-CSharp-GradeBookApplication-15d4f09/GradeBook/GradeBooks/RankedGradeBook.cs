@@ -26,9 +26,21 @@ namespace GradeBook.GradeBooks
                 student_grades.Add(s.AverageGrade);
             }
 
-            int top20per = Convert.ToInt32(Students.Count * 0.2);
+            int top_x_per = Convert.ToInt32(Students.Count * 0.2);
+            int latterGrade = 'A';
 
-            if (student_grades.IndexOf(averageGrade) < top20per)
+            for(int i=1;(top_x_per*i)<Students.Count;i++ )
+            {
+                if(student_grades.IndexOf(averageGrade)<(top_x_per*i))
+                {
+                    return (char)latterGrade;
+                }
+                latterGrade=latterGrade+1;               
+            }
+            return (char)latterGrade;
+
+            /*
+             if (student_grades.IndexOf(averageGrade) < top20per)
                 return 'A';
             else if (student_grades.IndexOf(averageGrade) < 2*top20per)
                 return 'B';
@@ -38,7 +50,7 @@ namespace GradeBook.GradeBooks
                 return 'D';
             else
                 return 'F';
-
+            */
             //for loop with user input.
         }
 

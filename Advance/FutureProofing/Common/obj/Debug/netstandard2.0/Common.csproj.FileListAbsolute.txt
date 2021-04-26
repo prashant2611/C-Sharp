@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\FutureProofing\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\lenovo\Desktop\FutureProofing\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lenovo\Desktop\FutureProofing\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\lenovo\Desktop\FutureProofing\Common\obj\Debug\netstandard2.0\Common.pdb

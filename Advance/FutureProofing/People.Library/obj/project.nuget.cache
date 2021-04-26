@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPbkdo9CWb/8u8jdQvc/h/U690nwifCPNCTdah7Xh3y7ZdEpmRhgDvs59PE4rixT61mkmA3E19KPSGnk+dMlxw==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\FutureProofing\\People.Library\\People.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
