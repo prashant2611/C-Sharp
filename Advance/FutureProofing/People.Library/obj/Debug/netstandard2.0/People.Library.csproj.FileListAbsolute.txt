@@ -1,0 +1,24 @@
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.deps.json
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.dll
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.pdb
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.dll
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CopyComplete
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.dll
+C:\Users\lenovo\Desktop\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\bin\Debug\netstandard2.0\People.Library.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\bin\Debug\netstandard2.0\Common.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\FutureProofing\People.Library\obj\Debug\netstandard2.0\People.Library.pdb
