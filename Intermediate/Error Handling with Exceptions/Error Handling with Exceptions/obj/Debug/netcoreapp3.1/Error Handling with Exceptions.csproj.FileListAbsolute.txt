@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.exe
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.dll
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\bin\Debug\netcoreapp3.1\Error Handling with Exceptions.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.dll
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Error Handling with Exceptions\Error Handling with Exceptions\obj\Debug\netcoreapp3.1\Error Handling with Exceptions.genruntimeconfig.cache

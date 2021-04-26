@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.exe
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.dll
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\bin\Debug\netcoreapp3.1\Nulls.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.dll
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Intermediate\Nulls\Nulls\obj\Debug\netcoreapp3.1\Nulls.genruntimeconfig.cache

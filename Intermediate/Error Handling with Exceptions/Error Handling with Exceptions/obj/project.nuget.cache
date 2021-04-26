@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsdMl5QkajDXknCQ2UDZGkGic2qe48iV35h02h5hvMgKaFIYXMNEVXr+5xirNZd/ybw6qRCBY1rlUWOjVds59g==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Intermediate\\Error Handling with Exceptions\\Error Handling with Exceptions\\Error Handling with Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

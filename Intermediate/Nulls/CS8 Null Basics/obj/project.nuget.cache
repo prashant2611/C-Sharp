@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+2NV2TnQ/R7sQIlcgW6IALiQ+ld571DaKc5YnU38qMpEItE8FmQN3VsdCBLidtQ8/9/eCw4RKtD/wWJnqlvXg==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Intermediate\\Nulls\\CS8 Null Basics\\CS8 Null Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
