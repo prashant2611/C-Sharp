@@ -1,0 +1,12 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.CSV.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.CSV\obj\Debug\netstandard2.0\PersonRepository.CSV.pdb

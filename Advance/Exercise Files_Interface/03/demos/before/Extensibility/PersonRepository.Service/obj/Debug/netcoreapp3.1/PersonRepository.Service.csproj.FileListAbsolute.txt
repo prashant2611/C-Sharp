@@ -1,0 +1,4 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netcoreapp3.1\PersonRepository.Service.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netcoreapp3.1\PersonRepository.Service.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netcoreapp3.1\PersonRepository.Service.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Service\obj\Debug\netcoreapp3.1\PersonRepository.Service.csproj.CoreCompileInputs.cache

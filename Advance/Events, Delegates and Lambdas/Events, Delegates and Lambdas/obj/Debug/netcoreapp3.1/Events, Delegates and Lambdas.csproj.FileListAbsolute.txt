@@ -1,0 +1,13 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.exe
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.runtimeconfig.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.runtimeconfig.dev.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\bin\Debug\netcoreapp3.1\Events, Delegates and Lambdas.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Events, Delegates and Lambdas\Events, Delegates and Lambdas\obj\Debug\netcoreapp3.1\Events, Delegates and Lambdas.genruntimeconfig.cache

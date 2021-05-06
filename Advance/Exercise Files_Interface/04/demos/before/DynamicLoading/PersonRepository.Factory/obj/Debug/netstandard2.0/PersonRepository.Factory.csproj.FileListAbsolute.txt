@@ -1,0 +1,12 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\bin\Debug\netstandard2.0\PersonRepository.Factory.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\bin\Debug\netstandard2.0\PersonRepository.Factory.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\bin\Debug\netstandard2.0\PersonRepository.Factory.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\04\demos\before\DynamicLoading\PersonRepository.Factory\obj\Debug\netstandard2.0\PersonRepository.Factory.pdb

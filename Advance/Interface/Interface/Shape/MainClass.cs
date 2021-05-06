@@ -5,7 +5,7 @@ namespace Interface
 {
     class MainClass
     {
-        static void Main(string[] args)
+/*static void Main(string[] args)
         {
             var square = new Square(4);
             Console.WriteLine($"Area of Square: {square.Area()}");
@@ -16,5 +16,6 @@ namespace Interface
             var rectangle = new Rectangle(4,5);
             Console.WriteLine($"Area of Rectangle: {rectangle.Area()}");
         }
+*/
     }
 }
