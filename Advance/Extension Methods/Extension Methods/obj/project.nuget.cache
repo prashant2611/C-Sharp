@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KQ7VP3muVReyprD+OIgeIR4MN1AKPS3lxIlxQF9gip3LDIzekEKt0Z5M+0cLtvva+G5kMjRrz/r8uAfU8BA6g==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Extension Methods\\Extension Methods\\Extension Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

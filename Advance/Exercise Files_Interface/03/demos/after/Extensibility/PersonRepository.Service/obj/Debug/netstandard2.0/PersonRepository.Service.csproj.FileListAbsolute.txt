@@ -1,0 +1,12 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Service.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.Service\obj\Debug\netstandard2.0\PersonRepository.Service.pdb

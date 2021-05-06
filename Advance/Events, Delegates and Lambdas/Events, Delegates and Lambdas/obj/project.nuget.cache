@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1n4KWoTYbCeITR5RXXEoNCQtmujUggn45D+7wYxTgbMVId0Vg03jewC6BdYtbZJfxaE+P0IxrDiQ9ZRMf/73EA==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Events, Delegates and Lambdas\\Events, Delegates and Lambdas\\Events, Delegates and Lambdas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Factory\\PersonRepository.Factory.csproj": {}
+  },
+  "projects": {
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+        "projectName": "PersonRepository.CSV",
+        "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Factory\\PersonRepository.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Factory\\PersonRepository.Factory.csproj",
+        "projectName": "PersonRepository.Factory",
+        "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Factory\\PersonRepository.Factory.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.CSV\\PersonRepository.CSV.csproj"
+              },
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+              },
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj"
+              },
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\PersonRepository.SQL.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\PersonRepository.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+        "projectName": "PersonRepository.Interface",
+        "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj",
+        "projectName": "PersonRepository.Service",
+        "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\PersonRepository.Service.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\PersonRepository.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\PersonRepository.SQL.csproj",
+        "projectName": "PersonRepository.SQL",
+        "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\PersonRepository.SQL.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj": {
+                "projectPath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\after\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.1.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

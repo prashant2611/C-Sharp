@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzORbDxQR6Z/KmUNM+igOFsMFgxtd4d09RVDnNmmzhQPvpFAAUhhnirIqBL1g9T5kH9mfkcip8EaWEZnoUqNKA==",
+  "success": true,
+  "projectFilePath": "H:\\KLINGELNBERG\\Training Assignments\\C#\\Advance\\Exercise Files_Interface\\03\\demos\\before\\Extensibility\\PersonRepository.Interface\\PersonRepository.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

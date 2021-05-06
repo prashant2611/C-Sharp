@@ -1,0 +1,9 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\before\Extensibility\PersonRepository.Interface\obj\Debug\netstandard2.0\PersonRepository.Interface.pdb

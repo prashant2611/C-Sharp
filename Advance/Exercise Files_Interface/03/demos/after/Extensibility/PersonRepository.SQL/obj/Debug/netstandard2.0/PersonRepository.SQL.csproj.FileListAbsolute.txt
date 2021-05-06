@@ -1,0 +1,12 @@
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.deps.json
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.SQL.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.Interface.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\bin\Debug\netstandard2.0\PersonRepository.Interface.pdb
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csprojAssemblyReference.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.AssemblyInfoInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.AssemblyInfo.cs
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csproj.CoreCompileInputs.cache
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.csproj.CopyComplete
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.dll
+H:\KLINGELNBERG\Training Assignments\C#\Advance\Exercise Files_Interface\03\demos\after\Extensibility\PersonRepository.SQL\obj\Debug\netstandard2.0\PersonRepository.SQL.pdb
