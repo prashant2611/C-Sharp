@@ -19,6 +19,10 @@ namespace Events__Delegates_and_Lambdas.Delegates
         {
             Console.WriteLine("Sub of given number: " + (a - b));
         }
+        public void mul(int a,int b)
+        {
+            Console.WriteLine("Multiplication of given number: " + (a * b));
+        }
 
         public void AssignDelegate(Calculations del)
         {

@@ -1,5 +1,6 @@
 ﻿using Events__Delegates_and_Lambdas.Action;
 using Events__Delegates_and_Lambdas.Delegates;
+using Events__Delegates_and_Lambdas.Events;
 using Events__Delegates_and_Lambdas.Lambda;
 using System;
 
@@ -54,11 +55,32 @@ namespace Events__Delegates_and_Lambdas
             */
 
 
-            ActionClass aobj = new ActionClass();
+            /*ActionClass aobj = new ActionClass();
             Action<int,int> Add = (x, y) => Console.WriteLine(x + y);
             Action<int, int> mul = (x, y) => Console.WriteLine(x * y);
 
             aobj.ArithmeticOperation(4, 5, mul);
+            */
+
+
+            Calculator cobj = new Calculator();
+            EventClass eobj = new EventClass();
+            // ArithmeticOperations arithmeticOperationsDelegate;
+            eobj.WorkPerformed += cobj.add;
+            eobj.WorkPerformed += cobj.sub;
+            eobj.WorkPerformed += cobj.mul;
+            eobj.WorkPerformed += cobj.add;
+            eobj.WorkPerformed -= cobj.sub;
+            eobj.WorkPerformed += delegate (int x, int y)           //Anonymous method.
+                  {
+                      Console.WriteLine("division of given values: " + (x / y));
+  
+                   };  
+
+
+            eobj.DoWork(4,5);
+            //eobj.Working(5, 6);    //another event
+
 
         }
     }

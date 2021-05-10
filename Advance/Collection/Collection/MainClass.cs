@@ -52,7 +52,7 @@ namespace Collection
             Console.WriteLine(qobj.PopInQueue());
             */
 
-            HashSetsClass hobj = new HashSetsClass();
+            /*HashSetsClass hobj = new HashSetsClass();
         
             hobj.PushInHash(3);
             hobj.PushInHash(3);
@@ -66,6 +66,13 @@ namespace Collection
             hobj.Union();
             Console.WriteLine("...");
             hobj.Intersection();
+            */
+
+            IEnumarable_And_IEnumarator eobj = new IEnumarable_And_IEnumarator();
+            //eobj.iEnumerable();
+            // eobj.iEnumerator();
+            //eobj.iCollection();
+            eobj.iList();
         }
     }
 }
